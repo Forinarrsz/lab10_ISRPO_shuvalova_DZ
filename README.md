@@ -1,2 +1,2 @@
-These are 10 lab assignments.
+These are 10 lab.
 Sorry, typo.
